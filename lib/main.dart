@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:todo/home_screen.dart';
+/// todo application
+/// CRUD - Create, Read, Update, Delete
 
 
 void main() {
